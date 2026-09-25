@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#0B1220"
+        android:pathData="M0,0h108v108h-108z"/>
+    <path
+        android:fillColor="#1E2A44"
+        android:pathData="M54,20a34,34 0,1 0,0.01 0z"/>
+    <path
+        android:fillColor="#0B1220"
+        android:pathData="M54,28a26,26 0,1 0,0.01 0z"/>
+    <!-- hour hand -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,40h4v18h-4z"/>
+    <!-- minute hand -->
+    <path
+        android:fillColor="#4DA3FF"
+        android:pathData="M54,54h20v4h-20z"/>
+    <!-- center dot -->
+    <path
+        android:fillColor="#4DA3FF"
+        android:pathData="M54,50a4,4 0,1 0,0.01 0z"/>
+</vector>

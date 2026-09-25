@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619239393964",
+    "project_id": "soulsync-85121",
+    "storage_bucket": "soulsync-85121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619239393964:android:09a118355ecd83405a6d09",
+        "android_client_info": {
+          "package_name": "com.SoulSync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619239393964-0u6ae3qi3nl02l7vki9omn7sqm5jtlrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SoulSync",
+            "certificate_hash": "8835e04b4f2e34abb21f4691d473edb557563bdf"
+          }
+        },
+        {
+          "client_id": "619239393964-3uhgqbp10ejob8kao4j42et0pul6315o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SoulSync",
+            "certificate_hash": "017b5a26dd2b02c57bbbef74bfcb35f628865402"
+          }
+        },
+        {
+          "client_id": "619239393964-2bdp2et6d0q0fkuhg7ao0sp2au0sbdr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgUWNRx876IcXu6079yMCB8BJ9lCOZr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619239393964-2bdp2et6d0q0fkuhg7ao0sp2au0sbdr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

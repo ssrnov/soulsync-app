@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_desc">Lets SoulSync know which app is currently on screen so it can keep your shared status accurate. It only reads the app name of the foreground window — never your screen content or what you type.</string>
+</resources>
